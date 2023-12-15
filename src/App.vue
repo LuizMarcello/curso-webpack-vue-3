@@ -1,3 +1,5 @@
+<!-- Este componente é o componente principal do projeto -->
+<!-- É onde tudo inicia, onde tudo vai ser carregado -->
 <script>
 import { RouterView } from 'vue-router';
 import Header from "./components/Header";
